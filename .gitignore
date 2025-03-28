@@ -5,8 +5,8 @@ npm-debug.log
 package-lock.json
 
 # Build files
-dist/
-build/
+# dist/
+# build/
 .cache/
 
 # Environment variables
